@@ -1,0 +1,18 @@
+# Core DL Frameworks
+torch==2.9.0
+torchvision==0.24.0
+torchaudio==2.9.0
+transformers==4.57.3
+accelerate==1.13.0
+
+
+# Parameter-Efficient Fine-Tuning (if used)
+peft==0.17.1
+
+# Data & Utilities
+numpy==2.2.6
+scipy==1.17.1
+pillow==12.2.0
+opencv-python-headless==4.13.0.92
+tiktoken==0.12.0
+sentencepiece==0.2.1

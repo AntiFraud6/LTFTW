@@ -1,0 +1,12 @@
+# 启动5卡DDP训练
+torchrun --nproc_per_node=5 --master_port=29500 train.py
+
+# 实时监控显存（另开终端）
+watch -n 1 nvidia-smi
+
+
+
+torchrun --nproc_per_node=5 /home/sxk1/SCI/Code/Train/train.py > /home/sxk1/SCI/Result/log/8B-1.log 2>&1 &
+
+
+torchrun --nproc_per_node=5 train.py
