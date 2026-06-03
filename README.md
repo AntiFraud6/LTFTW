@@ -1,3 +1,6 @@
+🚀Data, logs and CheckPoint have been made public at https://drive.google.com/drive/folders/1CroD3AcqDdGHfbzcgb83YrE-6VRXKp72🚀
+
+
 # 🕵️‍♂️ Scam Dialogue Generation & Analysis Pipeline
 
 End-to-end toolchain: from scam dialogue generation, data cleaning, model annotation, training & inference, to final metric calculation and sensitivity analysis. 
