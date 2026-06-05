@@ -1,6 +1,6 @@
 Data, logs and CheckPoint have been made public at 
 
-🚀https://drive.google.com/drive/folders/1CroD3AcqDdGHfbzcgb83YrE-6VRXKp72🚀
+🚀https://drive.google.com/drive/folders/1CroD3AcqDdGHfbzcgb83YrE-6VRXKp72
 
 
 # 🕵️‍♂️ Scam Dialogue Generation & Analysis Pipeline
