@@ -259,3 +259,5 @@ Simply run the script to label the data.
 > 💡 **Note**: All paths shown are example directories; please adapt them to your actual project structure. 
 > Ensure API keys, model paths, etc., are correctly set in the respective configuration files before running.
 
+严谨盗用，违者必究！
+Strictly no stealing, offenders will be held accountable!
